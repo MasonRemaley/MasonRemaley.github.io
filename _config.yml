@@ -16,11 +16,8 @@
 title: Mason Remaley
 # TODO: Email?
 email: your-email@example.com
-# TODO: Description?
-# TODO: URLs and stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# TODO: Why don't these work on GitHub..??
 twitter_username: MasonRemaley
 github_username: MasonRemaley
 instagram_username: MasonRemaley
@@ -28,7 +25,6 @@ mastodon_username: MasonRemaley
 mastodon_instance: mastodon.gamedev.place
 show_excerpts: true
 
-# TODO: Get rid of the thing that says "testing out github pages"
 # Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
