@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mason Remaley
-# TODO: Email?
-email: your-email@example.com
+email: mason.remaley+pub@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MasonRemaley
 github_username: MasonRemaley
+linkedin_username: MasonRemaley
 instagram_username: MasonRemaley
 mastodon_username: MasonRemaley
 mastodon_instance: mastodon.gamedev.place
