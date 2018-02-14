@@ -25,6 +25,7 @@ instagram_username: MasonRemaley
 mastodon_username: MasonRemaley
 mastodon_instance: mastodon.gamedev.place
 show_excerpts: true
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
