@@ -16,7 +16,8 @@
 title: Mason Remaley
 email: mason.remaley+pub@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.masonremaley.com" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: "www.masonremaley.com"
 twitter_username: MasonRemaley
 github_username: MasonRemaley
 linkedin_username: MasonRemaley
