@@ -7,8 +7,6 @@ excerpt_separator: <!--more-->
 
 Like most developers I’ve started many projects, and left almost as many unfinished. Looking back it’s easy to feel like none of my abandoned projects were any good–partly because when I look back it’s necessarily with more experience, but also because I often don’t have anything to look back on. I’m aiming to solve the latter by documenting projects I work on in my free time in this blog. Recently I’ve been working building a scripting language which I’ll eventually write some posts about, but I figured for my first post I’d take the easy way out and pulled together some old screenshots that I thought were worth showing off.
 
-Like most developers I’ve started many projects, and left almost as many unfinished. Looking back it’s easy to feel like none of my abandoned projects were any good–partly because when I look back it’s necessarily with more experience, but also because I often don’t have anything to look back on. I’m aiming to solve the latter by documenting projects I work on in my free time in this blog. Recently I’ve been working building a scripting language which I’ll eventually write some posts about, but I figured for my first post I’d take the easy way out and pulled together some old screenshots that I thought were worth showing off.
-
 The first couple screenshots are from a deferred renderer I was working on about a year ago, and then put on hold when I started rewriting all my game dev libraries in [Rust](https://www.rust-lang.org/){:target="_blank"} instead of C++.
 
 <figure>
