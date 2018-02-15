@@ -27,11 +27,19 @@ mastodon_instance: mastodon.gamedev.place
 show_excerpts: true
 permalink: /:year/:month/:day/:title/
 
+header_pages:
+  - about.md
+
+collections:
+  projects:
+    output: true
+
 # Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
