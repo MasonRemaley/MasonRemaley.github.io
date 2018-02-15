@@ -11,7 +11,7 @@ Sometimes I make random stuff, like art assets for games. This page is just some
 		<th width="50%" style="background: none; border: none">
 			<figure>
 				<img src="/assets/tree!.png" />
-				<figcaption>I was jealous of <a href="http://www.firewatchgame.com/" target="_blank">Firewatch</a>'s trees so I made a low poly tree (440 tris) with some free textures from <a href="textures.com">textures.com</a> because it was too snow to go out and photograph leaves.</figcaption>
+				<figcaption>I was jealous of <a href="http://www.firewatchgame.com/" target="_blank">Firewatch</a>'s trees so I made a low poly tree (440 tris) with some free textures from <a href="https://www.textures.com/" target="_blank">textures.com</a> because it was too snowy to go out and photograph leaves.</figcaption>
 			</figure>
 		</th>
 		<th width="50%" style="background: none; border: none">
