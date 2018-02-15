@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.masonremaley.com" # the base hostname & protocol for your site, e.g. http://example.com
 enforce_ssl: "www.masonremaley.com"
 twitter_username: MasonRemaley
-github_username: MasonRemaley
+# github_username: MasonRemaley # None of my cool stuff is public yet so no reason to link people here
 linkedin_username: MasonRemaley
 instagram_username: MasonRemaley
 mastodon_username: MasonRemaley
@@ -27,11 +27,19 @@ mastodon_instance: mastodon.gamedev.place
 show_excerpts: true
 permalink: /:year/:month/:day/:title/
 
+header_pages:
+  - about.md
+
+collections:
+  projects:
+    output: true
+
 # Build settings
 markdown: kramdown
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
