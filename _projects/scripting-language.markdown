@@ -29,6 +29,34 @@ fn factorial(n: int) -> int {
 }
 ```
 
+It's easy to interface with the language from Rust:
+```rs
+// Define a Rust marker type for a type that will be defined in a script
+// so that we can pass it to Rust.
+script_struct!(math::Point<T>);
+
+fn main() {
+    // Create a new virtual machine to run the code in
+    let mut vm = Vm::new();
+
+    // Compile the geometry module from source
+    vm.load_string("geom", r"
+        pub struct Point<T> {
+            pub x: T,
+            pub y: T,
+        }
+    ").unwrap();
+
+    // Create an instance of `Point` in the script and pass it to Rust
+    let origin: Managed<Point<Ratio>> =
+        vm.repl("@Point<ratio> { x: int, y: int }")
+          .unwrap().downcast(&vm).unwrap();
+
+    // ...now we're free to store the point, pass it back into other functions
+    // defined in the script, etc
+}
+```
+
 And much more...
 ```rs
 struct Vec2 {
