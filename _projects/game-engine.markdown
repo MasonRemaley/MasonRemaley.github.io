@@ -30,4 +30,5 @@ This is a lower level way of approaching game dev, but not at the expense of you
 
 <figure>
 	<img src="/assets/sublime-messages.png" />
+	<figcaption>Cut me some slack on the verbose type names and the shader API here, these things will all be improved before there's a public release. :)</figcaption>
 </figure>
