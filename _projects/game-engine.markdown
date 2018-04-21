@@ -24,9 +24,7 @@ I've been working on a 3D game engine for a while, written in [Rust](https://www
 	<figcaption>And of course, the obligatory <a href="http://www.crytek.com/cryengine/cryengine3/downloads" target="_blank">sponza</a> SSAO test. Unfortunately I can't find any screenshots of the full renders of this scene right now.</figcaption>
 </figure>
 
-Most engines are built to satisfy the needs of large teams of which not all members can expected to be technical--on the contrary, this engine is being built to suit the needs of small teams. Rather than hide an enormous amount of complexity behind a GUI functionality is provided to the user via direct APIs to the various engine subsystems.
-
-This is a lower level way of approaching game dev, but not at the expense of your workflow: your scripts are all immediately recompiled and hot swapped in on save, giving you instant feedback both in game and in your editor of choice.
+The engine hot swaps in scripts and assets on save, and also provides feedback that can be displayed inline in external text editors:
 
 <figure>
 	<img src="/assets/sublime-messages.png" />
