@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt_separator: <!--more-->
-order: 1
+order: 2
 redirect_from: "/2016/11/10/new-site-old-projects/"
 ---
 

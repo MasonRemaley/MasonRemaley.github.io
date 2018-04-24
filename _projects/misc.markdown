@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt_separator: <!--more-->
-order: 3
+order: 4
 ---
 
 Sometimes I make random stuff, like art assets for games. This page is just some stuff that didn't really fit in anywhere else.
