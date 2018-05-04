@@ -5,7 +5,7 @@ order: 2
 redirect_from: "/2016/11/10/new-site-old-projects/"
 ---
 
-I've been working on a 3D game engine for a while, written in [Rust](https://www.rust-lang.org){:target="_blank"} and primarily powered by [my scripting language](/projects/scripting-language). Here's some screenshots of a renderer I built for the project back when I was working in C++ (the scene is just a  bunch of rectangular prisms with some [Pixar textures](https://community.renderman.pixar.com/article/114/library-pixar-one-twenty-eight.html){:target="_blank"} on it, obviously with [better art](/projects/misc) it'd be a little more impressive):
+I've been working on a (primarily 3D) game engine for a while, written in [Rust](https://www.rust-lang.org){:target="_blank"} and primarily powered by [my scripting language](/projects/scripting-language). It's also the technology behind [_Monsters and Sprites_](/projects/monsters-and-sprites). Here's some screenshots of a renderer I built for the project back when I was working in C++ (the scene is just a  bunch of rectangular prisms with some [Pixar textures](https://community.renderman.pixar.com/article/114/library-pixar-one-twenty-eight.html){:target="_blank"} on it, obviously with [better art](/projects/misc) it'd be a little more impressive):
 
 <figure>
 	<img src="/assets/too-bright.png" />
@@ -30,3 +30,10 @@ The engine hot swaps in scripts and assets on save, and also provides feedback t
 	<img src="/assets/sublime-messages.png" />
 	<figcaption>Cut me some slack on the verbose type names and the shader API here, these things will all be improved before there's a public release. :)</figcaption>
 </figure>
+
+This engine is also the technology behind my 2D platformer [_Monsters and Sprites_](/projects/monsters-and-sprites):
+<a href="/projects/monsters-and-sprites">
+	<figure>
+		<img src="/assets/monsters-and-sprites-screenshot.jpg" />
+	</figure>
+</a>
