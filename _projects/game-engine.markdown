@@ -31,7 +31,7 @@ The engine hot swaps in scripts and assets on save, and also provides feedback t
 	<figcaption>Cut me some slack on the verbose type names and the shader API here, these things will all be improved before there's a public release. :)</figcaption>
 </figure>
 
-This engine is also the technology behind my 2D platformer [_Monsters and Sprites_](/projects/monsters-and-sprites):
+And here's a screenshot of [_Monsters and Sprites_](/projects/monsters-and-sprites):
 <a href="/projects/monsters-and-sprites">
 	<figure>
 		<img src="/assets/monsters-and-sprites-screenshot.jpg" />
