@@ -4,18 +4,14 @@ excerpt_separator: <!--more-->
 order: 1
 ---
 
-We're currently building a narrative puzzle game _Monsters and Sprites_ (working title) in which the player has to navigate a world in which they can only interact with objects while their character matches the item's color. The game is being built int [my engine](/projects/game-engine).
+I'm currently building a narrative puzzle game _Way of Rhea_, [more info here](http://anthropicstudios.com/way-of-rhea). The game is being built int [my engine](/projects/game-engine).
 
-The original prototype pictured below was built in nine days using in house tech for a [Playcrafting](https://playcrafting.com/) expo, [here's the original devlog on Twitter](https://twitter.com/masonremaley/status/988634973245669377).
+The original prototype pictured below was built in nine days using in house tech for a [Playcrafting](https://playcrafting.com/) expo.
 
 <video width="100%" controls>
   <source src="/assets/monsters-and-sprites-trailer.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-Programming and game design by [Mason Remaley](https://twitter.com/masonremaley), visual art by [Carolyn Whitmeyer](https://www.facebook.com/NyloracArt/), narrative design by [Evan Morris](https://twitter.com/evan_cmm), and music by [Colin Quinn](mailto:colinquinnwork@gmail.com).
-
-Subscribe to our studio's mailing list below to stay up to date, or follow us on [Twitter](https://twitter.com/anthropicst) or [Instagram](https://www.instagram.com/anthropicstudios/).
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
