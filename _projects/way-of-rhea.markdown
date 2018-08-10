@@ -2,6 +2,7 @@
 layout: page
 excerpt_separator: <!--more-->
 order: 1
+redirect_from: "/projects/monsters-and-sprites/"
 ---
 
 I'm currently building a narrative puzzle game _Way of Rhea_, [more info here](http://anthropicstudios.com/way-of-rhea). The game is being built int [my engine](/projects/game-engine).
