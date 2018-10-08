@@ -9,7 +9,7 @@ I wrote a scripting language in [Rust](https://www.rust-lang.org){:target="_blan
 It's statically typed but with type inference, has an incremental garbage collector, and compiles down to a bytecode I wrote so that it can be executed by a virtual machine I also wrote in Rust. This makes it super easy to hot swap out scripts in game without reloading the whole game, and also made it pretty easy to set up a read eval print loop. I'm not ready to release it publicly yet, but here's a few snippets to show it off:
 
 ```rs
-import dbg;
+use dbg;
 
 fn main() {
     dbg::println("Hello, world!");
@@ -41,7 +41,7 @@ fn main() {
 
     // Compile the geometry module from source
     vm.load_string("geom", r"
-        pub struct Point<T> {
+        pub struct Point::<T> {
             pub x: T,
             pub y: T,
         }
@@ -49,7 +49,7 @@ fn main() {
 
     // Create an instance of `Point` in the script and pass it to Rust
     let origin: Managed<Point<Ratio>> =
-        vm.repl("@Point<ratio> { x: int, y: int }")
+        vm.repl("@Point::<ratio> { x: int, y: int }")
           .unwrap().downcast(&vm).unwrap();
 
     // ...now we're free to store the point, pass it back into other functions
@@ -59,6 +59,8 @@ fn main() {
 
 And much more...
 ```rs
+use dbg::println;
+
 struct Vec2 {
     x: ratio,
     y: ratio,
@@ -81,5 +83,20 @@ fn main() {
 
     let dot = dot(a, b); // If not specified, the types of locals are inferred
     scale(a, dot);
+
+    // Support for sum types!
+    print_option_i32(Option::Some::<i32>(10));
+}
+
+enum Option::<T> {
+    Some(T),
+    None,
+}
+
+fn print_option_i32(n: Option::<i32>) {
+    match n {
+        Some(x) => println(f"The value is {x}!"),
+        None => println("no value :("),
+    }
 }
 ```
