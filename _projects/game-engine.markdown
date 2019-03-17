@@ -24,14 +24,13 @@ I've been working on a (primarily 3D) game engine for a while, written in [Rust]
 	<figcaption>And of course, the obligatory <a href="http://www.crytek.com/cryengine/cryengine3/downloads" target="_blank">sponza</a> SSAO test. Unfortunately I can't find any screenshots of the full renders of this scene right now.</figcaption>
 </figure>
 
-The engine hot swaps in scripts and assets on save, and also provides feedback that can be displayed inline in external text editors:
+The engine [hot swaps in scripts and assets on save (early video)](https://twitter.com/AnthropicSt/status/1005490426692980739), and also provides feedback that can be displayed inline in external text editors:
 
 <figure>
 	<img src="/assets/sublime-messages.png" />
-	<figcaption>Cut me some slack on the verbose type names and the shader API here, these things will all be improved before there's a public release. :)</figcaption>
 </figure>
 
-And here's a screenshot of [_Monsters and Sprites_](/projects/monsters-and-sprites):
+Here's a screenshot of [_Way of Rhea_](/projects/way-of-rhea) which is being built in the engine:
 <a href="/projects/monsters-and-sprites">
 	<figure>
 		<img src="/assets/monsters-and-sprites-screenshot.jpg" />
