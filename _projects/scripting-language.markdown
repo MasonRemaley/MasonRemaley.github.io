@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 order: 0
 ---
 
-I wrote a scripting language in [Rust](https://www.rust-lang.org){:target="_blank"} that I use for all my [game dev projects](/projects/game-engine).
+I wrote a scripting language in [Rust](https://www.rust-lang.org){:target="_blank"} that I use for all my [game dev projects](/projects/way-of-rhea).
 
 It's statically typed but with type inference, has an incremental garbage collector, and compiles down to a bytecode I wrote so that it can be executed by a virtual machine I also wrote in Rust. This makes it super easy to hot swap out scripts in game without reloading the whole game, and also made it pretty easy to set up a read eval print loop. I'm not ready to release it publicly yet, but here's a few snippets to show it off:
 

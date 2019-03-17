@@ -5,7 +5,7 @@ order: 1
 redirect_from: "/projects/monsters-and-sprites/"
 ---
 
-I'm currently building a narrative puzzle game _Way of Rhea_, [more info here](http://anthropicstudios.com/way-of-rhea). The game is being built int [my engine](/projects/game-engine).
+I'm currently building a narrative puzzle game _Way of Rhea_, [more info here](http://anthropicstudios.com/way-of-rhea). The game is being built in [my engine](/projects/game-engine).
 
 The original prototype pictured below was built in nine days using in house tech for a [Playcrafting](https://playcrafting.com/) expo.
 
