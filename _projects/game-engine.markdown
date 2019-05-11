@@ -5,7 +5,7 @@ order: 2
 redirect_from: "/2016/11/10/new-site-old-projects/"
 ---
 
-I've been working on a (primarily 3D) game engine for a while, written in [Rust](https://www.rust-lang.org){:target="_blank"} and primarily powered by [my scripting language](/projects/scripting-language). It's also the technology behind [_Way of Rhea_](/projects/way-of-rhea). Here's some screenshots of a renderer I built for the project back when I was working in C++ (the scene is just a  bunch of rectangular prisms with some [Pixar textures](https://community.renderman.pixar.com/article/114/library-pixar-one-twenty-eight.html){:target="_blank"} on it, obviously with [better art](/projects/misc) it'd be a little more impressive):
+I've been working on a game engine for a while, written in [Rust](https://www.rust-lang.org){:target="_blank"} and primarily powered by [my scripting language](/projects/scripting-language). It's also the technology behind [_Way of Rhea_](/projects/way-of-rhea). Here's some screenshots of a renderer I built for the project back when I was working in C++ (the scene is just a  bunch of rectangular prisms with some [Pixar textures](https://community.renderman.pixar.com/article/114/library-pixar-one-twenty-eight.html){:target="_blank"} on it, obviously with [better art](/projects/misc) it'd be a little more impressive):
 
 <figure>
 	<img src="/assets/too-bright.png" />
