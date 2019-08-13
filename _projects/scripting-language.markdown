@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt_separator: <!--more-->
-order: 0
+order: 1
 ---
 
 I wrote a scripting language in [Rust](https://www.rust-lang.org){:target="_blank"} that I use for all my [game dev projects](/projects/way-of-rhea).

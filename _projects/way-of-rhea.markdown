@@ -1,18 +1,17 @@
 ---
 layout: page
 excerpt_separator: <!--more-->
-order: 1
+order: 0
 redirect_from: "/projects/monsters-and-sprites/"
 ---
 
-I'm currently building a narrative puzzle game _Way of Rhea_, [more info here](http://anthropicstudios.com/way-of-rhea). The game is being built in [my engine](/projects/game-engine).
+I'm currently building a narrative puzzle game _Way of Rhea_. The game is being built in [my engine](/projects/game-engine).
 
-The original prototype pictured below was built in nine days using in house tech for a [Playcrafting](https://playcrafting.com/) expo.
+<iframe width="646" height="363.375" src="https://www.youtube.com/embed/VIzqlI-gbAY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<video width="100%" controls>
-  <source src="/assets/monsters-and-sprites-trailer.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe src="https://store.steampowered.com/widget/1110620/?t=Way%20of%20Rhea%20is%20an%20upcoming%20puzzle%20platformer%20that%20takes%20place%20in%20a%20world%20where%20you%20can%20only%20interact%20with%20objects%20that%20match%20your%20current%20color.%20" frameborder="0" width="646" height="190"></iframe>
+
+The original prototype pictured below was built in nine days using in house tech for a [Playcrafting](https://playcrafting.com/) expo. [More info, screenshots, and a blog including posts about the project can be found here.](http://anthropicstudios.com/way-of-rhea)
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -35,16 +34,3 @@ The original prototype pictured below was built in nine days using in house tech
 
 <br>
 <br>
-
-# Screenshots
-
-<table>
-  <tr>
-    <th><a href="/assets/monsters-and-sprites-start.png"><img src="/assets/monsters-and-sprites-start.png"/></a></th>
-    <th><a href="/assets/monsters-and-sprites-puzzle.png"><img src="/assets/monsters-and-sprites-puzzle.png"/></a></th>
-  </tr>
-  <tr>
-    <th><a href="/assets/monsters-and-sprites-elevator-puzzle.png"><img src="/assets/monsters-and-sprites-elevator-puzzle.png"/></a></th>
-    <th><a href="/assets/monsters-and-sprites-friend.png"><img src="/assets/monsters-and-sprites-friend.png"/></a></th>
-  </tr>
-</table>
