@@ -11,7 +11,7 @@ I'm currently building a narrative puzzle game _Way of Rhea_. The game is being 
 
 <iframe src="https://store.steampowered.com/widget/1110620/?t=Way%20of%20Rhea%20is%20an%20upcoming%20puzzle%20platformer%20that%20takes%20place%20in%20a%20world%20where%20you%20can%20only%20interact%20with%20objects%20that%20match%20your%20current%20color.%20" frameborder="0" width="646" height="190"></iframe>
 
-The original prototype pictured below was built in nine days using in house tech for a [Playcrafting](https://playcrafting.com/) expo. [More info, screenshots, and a blog including posts about the project can be found here.](http://anthropicstudios.com/way-of-rhea)
+[More info, screenshots, a press kit, and dev blog can be found here.](http://anthropicstudios.com/way-of-rhea)
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
