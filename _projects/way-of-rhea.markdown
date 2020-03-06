@@ -7,7 +7,7 @@ redirect_from: "/projects/monsters-and-sprites/"
 
 I'm currently building a narrative puzzle game _Way of Rhea_. The game is being built in [my engine](/projects/game-engine).
 
-<iframe width="646" height="363.375" src="https://www.youtube.com/embed/VIzqlI-gbAY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="646" height="363.375" src="https://www.youtube.com/embed/eVrbZss_B3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://store.steampowered.com/widget/1110620/?t=Way%20of%20Rhea%20is%20an%20upcoming%20puzzle%20platformer%20that%20takes%20place%20in%20a%20world%20where%20you%20can%20only%20interact%20with%20objects%20that%20match%20your%20current%20color.%20" frameborder="0" width="646" height="190"></iframe>
 
