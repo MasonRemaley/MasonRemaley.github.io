@@ -26,6 +26,7 @@ mastodon_username: MasonRemaley
 mastodon_instance: mastodon.gamedev.place
 show_excerpts: true
 permalink: /:year/:month/:day/:title/
+repository: MasonRemaley/MasonRemaley.github.io
 
 header_pages:
   - about.md
